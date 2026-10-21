@@ -1,0 +1,304 @@
+{
+  "schema": "tape.deck.text-package.v1",
+  "cassette_id": "8f5ffb7f-7e25-49b8-9161-4c6d04587506",
+  "revision": 6,
+  "saved_at": "2026-10-11T19:26:01.348150+00:00",
+  "head": {
+    "title": "Tob & Matarax",
+    "premise": "Tob Gobble and Matarax team up to subversively topple Dalton Trask's corporate empire, but things don't go as planned.",
+    "instructions": "",
+    "tone": "Deadly serious",
+    "viewpoint": "Neutral",
+    "emphasis": "",
+    "invention": "A lot",
+    "medium": "Text",
+    "style": "Baroque historical",
+    "format": "",
+    "renderer": ""
+  },
+  "symbols": [
+    {
+      "key": "matarax",
+      "sources": [
+        "67-The-Fire-Behind-The-Sky",
+        "0-The-Quatria-Conspiracy",
+        "23-Inside-the-Hypogeum",
+        "25-Beyond-Atlantis"
+      ],
+      "name": "Matarax",
+      "accounts": [
+        {
+          "source": "67-The-Fire-Behind-The-Sky",
+          "name": "Matarax",
+          "description": "The cosmic spider weaves chains of prayers into a web connecting everything beyond this world.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-fulltext-repair-01/candidates.json"
+        },
+        {
+          "source": "0-The-Quatria-Conspiracy",
+          "name": "Tunnel of Matarax",
+          "description": "The People of Anthuor travel between worlds through this passage, also interpreted as a connection between the poles of Mars and Earth.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-03/candidates.json"
+        },
+        {
+          "source": "23-Inside-the-Hypogeum",
+          "name": "Tunnel of Matarax",
+          "description": "The People of Anthuor traverse Hypogeic space through this passage while fleeing the destruction of their former world.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-04/candidates.json"
+        },
+        {
+          "source": "25-Beyond-Atlantis",
+          "description": "The subterranean route through which the Atlantean women descended, reached via the UFO caves in Antarctica.",
+          "evidence": "the Tunnel of Matarax, from which they had descended through the UFO caves in Antarctica .",
+          "origin": "auto_occurrence_approved_unit"
+        }
+      ]
+    },
+    {
+      "key": "dalton trask",
+      "sources": [
+        "118-Relaxatopia",
+        "123-CoEvil",
+        "125-Tiamat",
+        "19-The-First-Days-of-Panic",
+        "21-The-AI-Virus",
+        "24-Mysterious-Dalton-Trask",
+        "68-Beyond-Mysterious-Satellites",
+        "31-Beyond-the-Technate-Generic"
+      ],
+      "name": "Dalton Trask",
+      "accounts": [
+        {
+          "source": "21-The-AI-Virus",
+          "name": "Dalton Trask",
+          "description": "A secret asteroid-mining magnate is accused of directing the renegade AIs and inheriting control of a covert space program.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot/candidates.json"
+        },
+        {
+          "source": "123-CoEvil",
+          "name": "Dalton Trask",
+          "description": "The architect of subscription government attempts to control existence through algorithms amid contradictory histories and failing reality.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-03/candidates.json"
+        },
+        {
+          "source": "19-The-First-Days-of-Panic",
+          "name": "Dalton Trask",
+          "description": "A space-mining magnate returns from exile and uses satellites and a buried quantum computer to seize earthly power.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-04/candidates.json"
+        },
+        {
+          "source": "24-Mysterious-Dalton-Trask",
+          "name": "Dalton Trask",
+          "description": "The magnate who develops lethal mind uploading later experiences unstable uploaded realities while pursuing planetary power.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-04/candidates.json"
+        },
+        {
+          "source": "68-Beyond-Mysterious-Satellites",
+          "name": "Dalton Trask",
+          "description": "The satellite magnate's rivalry with the Eastern Alliance drives the war that destroys orbital infrastructure.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-05/candidates.json"
+        },
+        {
+          "source": "118-Relaxatopia",
+          "name": "Dalton Trask",
+          "description": "The narrator repeatedly encounters Trask's image and describes an unstable identification with him.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-06/candidates.json"
+        },
+        {
+          "source": "125-Tiamat",
+          "name": "Dalton Trask",
+          "description": "Trask collapses when the spirit departs at the end of Kal's encounter in the Place of Decay.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-06/candidates.json"
+        },
+        {
+          "source": "31-Beyond-the-Technate-Generic",
+          "description": "Founder-figure of the Martian Technocracy's ruling line and sole sovereign administrator of Mars, to whom all Technocracy profits flow.",
+          "evidence": "goes immediately back to Trask, who is the sole sovereign administrator of the planet",
+          "origin": "auto_occurrence_approved_unit"
+        }
+      ]
+    },
+    {
+      "key": "tob gobble",
+      "sources": [
+        "14-Mysterious-Tob-Gobble",
+        "43-The-Endless-Knot",
+        "99-The-Second-Octave",
+        "000-The-Lost-Direction"
+      ],
+      "name": "Tob Gobble",
+      "accounts": [
+        {
+          "source": "14-Mysterious-Tob-Gobble",
+          "name": "Tob Gobble",
+          "description": "The Quatrian potato trickster appears across cultures and eras, with conflicting accounts of his origins and death.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-06/candidates.json"
+        },
+        {
+          "source": "43-The-Endless-Knot",
+          "name": "Tob Gobble",
+          "description": "The trickster remains a beloved figure despite his mischievous behavior.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-06/candidates.json"
+        },
+        {
+          "source": "000-The-Lost-Direction",
+          "name": "Tob Gobble",
+          "description": "Peculiar small companion who befriends Benda and tells the tale of his people.",
+          "evidence": "Chapter 2: The Tale of Tob’s People 2 THE TALE OF TOB’S PEOPLE B enda and Tob Gobble sat down in the grove so that Tob could tell his tale.",
+          "locator": "000-source.txt",
+          "confidence": "High",
+          "origin": "auto_occurrence_approved_unit",
+          "candidate_file": "calibration/000-my-candidates.json"
+        },
+        {
+          "source": "99-The-Second-Octave",
+          "name": "Tob Gobble",
+          "description": "The rootleted runaway who flees the stone roundhouse and chooses adventure with the Ferryman.",
+          "evidence": "Tob Gobble felt the thrill of the open road ahead",
+          "locator": "Chapter 6: Ferryman",
+          "confidence": "High",
+          "origin": "auto_occurrence_approved_unit",
+          "candidate_file": "calibration/99-my-candidates.json"
+        }
+      ]
+    },
+    {
+      "key": "kal the hunter",
+      "sources": [
+        "125-Tiamat"
+      ],
+      "name": "Kal the Hunter",
+      "accounts": [
+        {
+          "source": "125-Tiamat",
+          "name": "Kal the Hunter",
+          "description": "Kal's rise and fall involves a crown fashioned from the Goddess of Light and Truth and an episode of possession involving Trask.",
+          "confidence": "high",
+          "candidate_file": "outputs/symbolic-units-pilot-06/candidates.json"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "id": "a295380e-a95f-4da2-a4b9-ce29a66f3bec",
+      "position": 1,
+      "title": "Tob's Arrival",
+      "kind": "text",
+      "chain": null,
+      "text": "Tob Gobble gets off the airplane\n\na representative of the spider power, matarax is waiting for him",
+      "frames": [],
+      "instructions": "",
+      "effective_instructions": "",
+      "source": null,
+      "local_symbols": [
+        "tob gobble",
+        "matarax"
+      ],
+      "carried_symbols": [],
+      "effective_symbols": [
+        "tob gobble",
+        "matarax"
+      ],
+      "missing_symbols": []
+    },
+    {
+      "id": "311e9e48-c3f6-47ee-b29b-6f1fe45be5b4",
+      "position": 2,
+      "title": "Limo ride",
+      "kind": "text",
+      "chain": null,
+      "text": "Tob & Matarax's representative drive silently from the airport to the Matarax HQ",
+      "frames": [],
+      "instructions": "",
+      "effective_instructions": "",
+      "source": null,
+      "local_symbols": [
+        "tob gobble",
+        "matarax"
+      ],
+      "carried_symbols": [],
+      "effective_symbols": [
+        "tob gobble",
+        "matarax"
+      ],
+      "missing_symbols": []
+    },
+    {
+      "id": "09da1125-e26b-41c8-8e12-14ec378c8c94",
+      "position": 3,
+      "title": "Planning session",
+      "kind": "text",
+      "chain": null,
+      "text": "Tob arrives at HQ and plans with Matarax what they will do to move against Dalton Trask",
+      "frames": [],
+      "instructions": "",
+      "effective_instructions": "",
+      "source": null,
+      "local_symbols": [
+        "matarax",
+        "tob gobble",
+        "dalton trask"
+      ],
+      "carried_symbols": [],
+      "effective_symbols": [
+        "matarax",
+        "tob gobble",
+        "dalton trask"
+      ],
+      "missing_symbols": []
+    },
+    {
+      "id": "1e8c7830-bee1-4d7a-bcfc-dd77346b256f",
+      "position": 4,
+      "title": "Watch bit",
+      "kind": "text",
+      "chain": "Tob's watch",
+      "text": "tob checks his watch\n\nhe has to check all his different arms",
+      "frames": [],
+      "instructions": "chain can be re-used multiple times for comedic effect",
+      "effective_instructions": "chain can be re-used multiple times for comedic effect",
+      "source": null,
+      "local_symbols": [],
+      "carried_symbols": [],
+      "effective_symbols": [],
+      "missing_symbols": []
+    },
+    {
+      "id": "02cef0aa-d377-421a-b1b7-c5d03d62b206",
+      "position": 5,
+      "title": "The rest is up to you",
+      "kind": "text",
+      "chain": null,
+      "text": "The renderer decides what happens next based on the premise, the registry slices, permitted invention, etc. Not to exceed 2000 words. ",
+      "frames": [],
+      "instructions": "",
+      "effective_instructions": "",
+      "source": null,
+      "local_symbols": [
+        "tob gobble",
+        "matarax",
+        "dalton trask"
+      ],
+      "carried_symbols": [],
+      "effective_symbols": [
+        "tob gobble",
+        "matarax",
+        "dalton trask"
+      ],
+      "missing_symbols": []
+    }
+  ],
+  "render_text": "# Tob & Matarax\n\nPremise: Tob Gobble and Matarax team up to subversively topple Dalton Trask's corporate empire, but things don't go as planned.\nShared instructions: None\n\nMix settings:\n- Tone: Deadly serious\n- Viewpoint: Neutral\n- Emphasis: Unspecified\n- Invention: A lot\n- Medium: Text\n- Style: Baroque historical\n- Format: Unspecified\n- Renderer: Unspecified\n\nSelected symbols:\n- Matarax [matarax]\n  - 67-The-Fire-Behind-The-Sky: The cosmic spider weaves chains of prayers into a web connecting everything beyond this world.\n  - 0-The-Quatria-Conspiracy: The People of Anthuor travel between worlds through this passage, also interpreted as a connection between the poles of Mars and Earth.\n  - 23-Inside-the-Hypogeum: The People of Anthuor traverse Hypogeic space through this passage while fleeing the destruction of their former world.\n  - 25-Beyond-Atlantis: The subterranean route through which the Atlantean women descended, reached via the UFO caves in Antarctica.\n- Dalton Trask [dalton trask]\n  - 21-The-AI-Virus: A secret asteroid-mining magnate is accused of directing the renegade AIs and inheriting control of a covert space program.\n  - 123-CoEvil: The architect of subscription government attempts to control existence through algorithms amid contradictory histories and failing reality.\n  - 19-The-First-Days-of-Panic: A space-mining magnate returns from exile and uses satellites and a buried quantum computer to seize earthly power.\n  - 24-Mysterious-Dalton-Trask: The magnate who develops lethal mind uploading later experiences unstable uploaded realities while pursuing planetary power.\n  - 68-Beyond-Mysterious-Satellites: The satellite magnate's rivalry with the Eastern Alliance drives the war that destroys orbital infrastructure.\n  - 118-Relaxatopia: The narrator repeatedly encounters Trask's image and describes an unstable identification with him.\n  - 125-Tiamat: Trask collapses when the spirit departs at the end of Kal's encounter in the Place of Decay.\n  - 31-Beyond-the-Technate-Generic: Founder-figure of the Martian Technocracy's ruling line and sole sovereign administrator of Mars, to whom all Technocracy profits flow.\n- Tob Gobble [tob gobble]\n  - 14-Mysterious-Tob-Gobble: The Quatrian potato trickster appears across cultures and eras, with conflicting accounts of his origins and death.\n  - 43-The-Endless-Knot: The trickster remains a beloved figure despite his mischievous behavior.\n  - 000-The-Lost-Direction: Peculiar small companion who befriends Benda and tells the tale of his people.\n  - 99-The-Second-Octave: The rootleted runaway who flees the stone roundhouse and chooses adventure with the Ferryman.\n- Kal the Hunter [kal the hunter]\n  - 125-Tiamat: Kal's rise and fall involves a crown fashioned from the Goddess of Light and Truth and an episode of possession involving Trask.\n\nBlocks in order:\n\n## 1. Tob's Arrival\nEffective instructions: None\nEffective symbols: Tob Gobble [tob gobble], Matarax [matarax]\n\nTob Gobble gets off the airplane\n\na representative of the spider power, matarax is waiting for him\n\n## 2. Limo ride\nEffective instructions: None\nEffective symbols: Tob Gobble [tob gobble], Matarax [matarax]\n\nTob & Matarax's representative drive silently from the airport to the Matarax HQ\n\n## 3. Planning session\nEffective instructions: None\nEffective symbols: Matarax [matarax], Tob Gobble [tob gobble], Dalton Trask [dalton trask]\n\nTob arrives at HQ and plans with Matarax what they will do to move against Dalton Trask\n\n## 4. Watch bit\nChain: Tob's watch\nEffective instructions: chain can be re-used multiple times for comedic effect\nEffective symbols: None\n\ntob checks his watch\n\nhe has to check all his different arms\n\n## 5. The rest is up to you\nEffective instructions: None\nEffective symbols: Tob Gobble [tob gobble], Matarax [matarax], Dalton Trask [dalton trask]\n\nThe renderer decides what happens next based on the premise, the registry slices, permitted invention, etc. Not to exceed 2000 words.\n"
+}
